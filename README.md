@@ -39,7 +39,7 @@ To install and run InstaFilter on your iOS device:
 6. Explore and enjoy the diverse filter library for creative editing.
 
 ## Contact
-For questions or feedback regarding InstaFilter, please contact [your-email] or [your-website].
+For questions or feedback regarding InstaFilter, please contact JamesConnorHill@gmail.com or message me on LinkedIn: https://www.linkedin.com/in/connor-j-hill/.
 
 ## Technologies Used
 - SwiftUI
